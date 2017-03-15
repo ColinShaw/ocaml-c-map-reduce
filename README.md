@@ -1,4 +1,4 @@
-## __Peave__
+# Peave About Map, Reduce and People Who Talk About 'The Functional Style'
    
 I have a significant grievance with people speaking of functions such as map and reduce in non-functional
 languages as functional programming.  There is nothing special about map and reduce, they are not functional
