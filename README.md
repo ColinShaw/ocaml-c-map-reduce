@@ -10,7 +10,8 @@ communities.  In some languages it is known as inject, and in imperative languag
 enumerations it tends to be termed names more like aggregate.  The choice of term tends to depend 
 on the history and lineage of the language.  You can generally tell if someone knows what they are 
 talking about relative to functional languages if they can describe the dichotomy of fold and why 
-the two forms matter.  
+the two forms matter.  For those interested in what is important abot functional programming, there are 
+abundant resources available on the web, or you could look at these [slides](https://docs.google.com/presentation/d/1IEFzjppa1-UlqauOotJmVs2B4lT5xVit4Ziwq3v8zPQ/pub/) that I put together for a presentation.
 
 A good question to pose is why functional implementations admit elegant use of functions like map and 
 fold.  There are several answers to this question.  First, many functional languages are LISP-like in the
